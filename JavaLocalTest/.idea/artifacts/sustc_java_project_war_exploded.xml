@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sustc_java_project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sustc_java_project_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sustc_java_project" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="JUnit4" module-name="sustc_java_project" />
+          <element id="library" level="module" name="JUnit5.8.1" module-name="sustc_java_project" />
+          <element id="library" level="module" name="JUnit5.7.0" module-name="sustc_java_project" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="sustc_java_project/web/Web" />
+    </root>
+  </artifact>
+</component>

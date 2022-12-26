@@ -1,0 +1,5 @@
+host = localhost:5432
+database = project2
+stringtype = ?stringtype=unspecified
+user = postgres
+password = 111111
