@@ -114,7 +114,7 @@
                     </th>
                     <td>
                         <input type="text" name="path_records" class="csv"
-                               value="F:\0course\database\project2\JavaLocalTest\data\test_records.csv">
+                               value="F:\course\database\project2\JavaLocalTest\data\test_records.csv">
                     </td>
                 </tr>
                 <tr>
@@ -123,7 +123,7 @@
                     </th>
                     <td>
                         <input type="text" name="path_staffs" class="csv"
-                               value="F:\0course\database\project2\JavaLocalTest\data\test_staffs.csv">
+                               value="F:\course\database\project2\JavaLocalTest\data\test_staffs.csv">
                     </td>
                 </tr>
             </table>
