@@ -18,3 +18,10 @@ Project 题目的主要要求为：
 + 使用 Java 手搓 MVC 架构
 + 使用 Tomcat 作为 Web 服务器
 + 使用 JSP 简单制作了前端页面，虽然比较丑陋
+
+Project 仓库包含：
+
++ sources from professor：题目描述，必要接口，数据，测试样例等
++ sources：项目主要源码
++ ER graph：ER 图
++ report：需提交的报告，进行 presentation 所需的 ppt，以及必要的图片等
