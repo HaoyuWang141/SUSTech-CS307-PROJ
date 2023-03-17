@@ -1,5 +1,0 @@
-host = localhost:5432
-database = postgres
-stringtype = ?stringtype=unspecified
-user = postgres
-password = 111111

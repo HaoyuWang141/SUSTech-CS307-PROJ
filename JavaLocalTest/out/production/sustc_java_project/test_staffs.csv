@@ -1,7 +1,0 @@
-Name,Type,Company,City,Gender,Age,Phone,Password
-a,Courier,company1,A,male,1,12345678901,111111
-b,Courier,company1,B,male,1,12345678902,111111
-c,Seaport Officer,,C,male,1,12345678903,111111
-d,Seaport Officer,,D,male,1,12345678904,111111
-e,Company Manager,company1,,male,1,12345678905,111111
-f,SUSTC Department Manager,,,male,1,12345678906,111111

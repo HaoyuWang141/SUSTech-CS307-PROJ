@@ -1,0 +1,7 @@
+#111
+#Sun Dec 25 16:05:15 CST 2022
+database=project2
+host=localhost\:5432
+password=111111
+stringtype=?stringtype\=unspecified
+user=sustcdepartmentmanager
